@@ -1,2 +1,2 @@
-# stamsoft
-The final site from my intership in stamsoft
+# Stamsoft
+The final site from my intership in Stamsoft
